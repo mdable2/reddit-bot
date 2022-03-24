@@ -6,6 +6,7 @@
 | `cd ~`   | change directory home        | navigate to HOME directory |
 | `cd ..`      | change directory up       | move one level up |
 | `cls`      | clear     | clear console screen |
+| `type nul > {filename}.{ext}`   | create file        | creates an empty file |
 | `copy {start-location} {end-location}`   | copy      | copies one or more files to another location |
 | `del {filename}`      | delete    | delete one or more files |
 | `find {string} {filename}`      | find    | searches for a text string in a file or files |
@@ -29,5 +30,6 @@
 | `clear`      | clear       | clears the terminal screen |
 | `mkdir {directoryname}`   | make directory        | create new directory in present working directory or at specified path |
 | `rm {filename}`   | remove        | remove file with given filename |
+| `touch {filename}.{ext}`   | touch        | create new empty file |
 | `rmdir {dirname}`   | remove directory        | deletes a directory |
 | `ssh {username}@{ip-address} or {hostname}`   | secure shell        | login into a remote Linux machine using SSH |
