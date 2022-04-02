@@ -1,4 +1,5 @@
 secrets.py
+gpt_personachat_cache
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
